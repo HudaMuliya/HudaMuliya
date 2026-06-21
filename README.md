@@ -1,196 +1,200 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<!-- ═══════════════════ ANIMATED HEADER BANNER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,16,6&height=260&section=header&text=Huda%20Muliya&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Creative%20Technologist%20%7C%20Frontend%20Developer%20%7C%20Public%20Speaker&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%"/>
 
-<a href="https://portofolio-huda-muliya.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20133D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/huda-muliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-20133D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/huda0xa___" target="_blank"><img src="https://img.shields.io/badge/Instagram-20133D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:hudamuliya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-20133D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/62895423216883" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20133D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<!-- ═══════════════════ LIVE TYPING ANIMATION ═══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+beautiful+web+interfaces+%F0%9F%9A%80;React+%26+Next.js+%7C+Tailwind+%7C+Figma+%E2%9C%A8;Master+of+Ceremony+%7C+1000%2B+Audience+%F0%9F%8E%99%EF%B8%8F;Ketua+Himpunan+Mahasiswa+Informatika+%F0%9F%8F%86;IPK+3.95+%2F+4.00+%7C+UNU+Yogyakarta+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Frontend+Engineer+%E2%80%94+React+%26+Next.js;UI%2FUX+Designer+%E2%80%94+Figma;Master+of+Ceremony+%26+Public+Speaker;Ketua+Himpunan+Mahasiswa+Informatika" alt="Typing SVG"/>
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
+<a href="https://portofolio-huda-muliya.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6d28d9?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/huda-muliya" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+</a>
+<a href="https://www.instagram.com/huda0xa___" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=ec4899"/>
+</a>
+<a href="mailto:hudamuliya@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
+</a>
+<a href="https://wa.me/62895423216883" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=22c55e"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HudaMuliya&label=Profile%20Views&color=302b63&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/HudaMuliya?label=Followers&style=flat-square&color=302b63&labelColor=20133D" alt="Followers"/>
+<!-- ═══════════════════ LIVE COUNTERS ═══════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=HudaMuliya&label=Profile+Views&color=6d28d9&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/HudaMuliya?label=Followers&style=flat-square&color=6d28d9&labelColor=1e1b4b"/>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,6&height=2&section=header" width="100%"/>
 
-## Tentang Saya
+<br/>
 
-Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memadukan kompetensi teknis di bidang **Frontend Development & UI/UX Design** dengan kemampuan komunikasi publik sebagai **Master of Ceremony** dan **Digital Content Creator**. Saat ini menjabat sebagai **Ketua Himpunan Mahasiswa Informatika (HIMATIKA)**, memimpin koordinasi strategis organisasi sekaligus aktif membangun produk digital di dunia profesional.
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## Tech Stack
-
+<!-- ═══════════════════ TECH STACK ICONS ═══════════════════ -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,python,php,fastapi,figma,git,github,vscode,vercel&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## Kompetensi Inti
-
-<div align="center">
-
-<img src="assets/skills-radar.svg" width="560"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,python,php,fastapi,figma,git,github,vscode,vercel&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
-<table width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,6&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&lines=%E2%9A%94%EF%B8%8F+Featured+Projects" alt="Projects" />
+
+</div>
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Technical**
-- Frontend Engineering — React.js, Next.js, Tailwind CSS, Bootstrap
-- Backend & API Systems — Python, PHP, FastAPI, RESTful API
-- UI/UX Design — User-Centered Design, Wireframing, Figma
-- System Architecture — MVC Pattern, Responsive Web Design
+**✈️ [NusaGo – Travel Platform](https://nusago.id/)**
+Internship · Frontend Developer
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-1e1b4b?style=flat-square&logo=vite&logoColor=a78bfa)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Creative & Leadership**
-- Public Speaking — MC untuk acara formal, seminar, wisuda
-- Brand & Identity — Campus Talent, Brand Ambassador
-- Digital Content — Content Strategy, Media Production
-- Leadership — Strategic Coordination, Public Relations
+**🛍️ [Bekasin – Marketplace](https://bekasin-marketplace.vercel.app/)**
+Frontend Developer
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+![Vite](https://img.shields.io/badge/Vite-1e1b4b?style=flat-square&logo=vite&logoColor=a78bfa)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ [HairCheck – DSS System](https://front-end-hair-check.vercel.app/)**
+UI/UX & Frontend · [Figma ↗](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1)
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![FastAPI](https://img.shields.io/badge/FastAPI-052e16?style=flat-square&logo=fastapi&logoColor=22c55e)
+
+</td>
+<td width="50%" valign="top">
+
+**🍎 [AppleScan – ML Classifier](https://apple-scan.vercel.app/)**
+Frontend Developer
+
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=facc15)
+![KNN](https://img.shields.io/badge/KNN_Algorithm-0f172a?style=flat-square&logoColor=a78bfa)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏫 [School Website Redesign](https://roudlotushsholihin.ponpes.id/)**
+Freelance Frontend Developer
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 [HairCheck Design System](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1)**
+UI/UX Designer · Figma
+
+![Figma](https://img.shields.io/badge/Figma-1e1b4b?style=flat-square&logo=figma&logoColor=ec4899)
+![UCD](https://img.shields.io/badge/User--Centered_Design-0f172a?style=flat-square&logoColor=a78bfa)
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<br/>
 
-## Proyek Unggulan
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,6&height=2&section=header" width="100%"/>
 
-<table width="100%">
-<tr><th align="left">Proyek</th><th align="left">Peran</th><th align="left">Deskripsi</th><th align="left">Stack</th><th align="left">Tautan</th></tr>
+<br/>
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Analytics" alt="Analytics" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0a1a&title_color=a78bfa&icon_color=ec4899&text_color=e2e8f0&ring_color=7c3aed" height="180"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=midnight-purple&hide_border=true&background=0d0a1a&ring=7c3aed&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=64748b" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HudaMuliya&theme=tokyo-night&hide_border=true&bg_color=0d0a1a&color=a78bfa&line=7c3aed&point=ec4899&area=true&area_color=6d28d9" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HudaMuliya&theme=radical&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,16,6&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ CREATIVE HIGHLIGHT ═══════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=99999&color=EC4899&center=true&vCenter=true&width=400&lines=%F0%9F%8E%99%EF%B8%8F+Beyond+the+Code" alt="Creative" />
+
+</div>
+
+<table>
 <tr>
-<td><b>HairCheck</b></td>
-<td>UI/UX & Frontend Developer</td>
-<td>Sistem pendukung keputusan (SPK) berbasis web dengan metode SAW untuk rekomendasi perawatan rambut.</td>
-<td><code>React.js</code> <code>FastAPI</code> <code>SAW</code></td>
-<td><a href="https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1">Figma</a> · <a href="https://front-end-hair-check.vercel.app/">Demo</a></td>
-</tr>
-<tr>
-<td><b>NusaGo</b></td>
-<td>Frontend Developer Intern</td>
-<td>Antarmuka web platform pemesanan tiket dan layanan perjalanan yang responsif dan interaktif.</td>
-<td><code>React.js</code> <code>Vite</code> <code>Tailwind</code></td>
-<td><a href="https://nusago.id/">Demo</a></td>
-</tr>
-<tr>
-<td><b>Bekasin</b></td>
-<td>Frontend Developer</td>
-<td>Platform marketplace digital untuk transaksi jual-beli barang bekas (thrifting).</td>
-<td><code>React.js</code> <code>Tailwind</code> <code>Vite</code></td>
-<td><a href="https://bekasin-marketplace.vercel.app/">Demo</a></td>
-</tr>
-<tr>
-<td><b>AppleScan</b></td>
-<td>Frontend Developer</td>
-<td>Antarmuka web interaktif untuk sistem klasifikasi kualitas buah apel berbasis Machine Learning KNN.</td>
-<td><code>Python</code> <code>KNN</code></td>
-<td><a href="https://apple-scan.vercel.app/">Demo</a></td>
-</tr>
-<tr>
-<td><b>School Website Redesign</b></td>
-<td>Freelance Frontend Developer</td>
-<td>Landing page interaktif untuk digitalisasi profil sekolah PP Roudlotush Sholihin.</td>
-<td><code>React.js</code> <code>Tailwind</code></td>
-<td><a href="https://roudlotushsholihin.ponpes.id/">Website</a></td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎤_MC_%26_Host-1e1b4b?style=for-the-badge&logoColor=white"/>
+<br/><sub>1000+ Audience · 15+ Events</sub>
+<br/><sub>Wisuda · Seminar · OSPEK · Tahun Baru</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📸_Model_%26_Creator-1e1b4b?style=for-the-badge&logoColor=white"/>
+<br/><sub>Brand Collaboration</sub>
+<br/><sub>Rexona · Pocari Sweat · Skin1004 · Isntree</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🦁_Ketua_HIMATIKA-1e1b4b?style=for-the-badge&logoColor=white"/>
+<br/><sub>2025 – Sekarang</sub>
+<br/><sub>UNU Yogyakarta · Informatika</sub>
+</td>
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<br/>
 
-## Pengalaman Profesional
-
-**Technical Experience**
-- **Frontend Developer Intern** — PT NusaGo Digital Travelindo · *April 2026 – Sekarang*
-  Mengembangkan antarmuka aplikasi web travel, mengimplementasikan desain responsif, berkolaborasi dalam tim produk digital.
-- **Freelance Web Developer** — Self-Employed · *Des 2025 – Sekarang*
-  Membangun antarmuka web kustom yang interaktif menggunakan React.js untuk berbagai klien.
-
-**Creative & Public Engagement**
-- **Master of Ceremony & Host** — Freelance & Campus Events · *Sep 2024 – Sekarang*
-  Memandu puluhan acara akademik dan non-akademik dengan audiens 1000+, termasuk Wisuda UNU Yogyakarta 2025.
-- **Freelance Model & Content Creator** — Collaboration · *Juli 2023 – Sekarang*
-  Kolaborasi konten kreatif bersama brand seperti Rexona, Pocari Sweat, Skin1004, Isntree, dan Realfood.
-
-**Leadership**
-- **Ketua Himpunan** — HMP Informatika UNU Yogyakarta (HIMATIKA) · *Juni 2025 – Sekarang*
-  Memimpin koordinasi strategis organisasi, menyusun program kerja tahunan, mengelola komunikasi eksternal.
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## Pendidikan
-
-| Institusi | Program | Periode | Pencapaian |
-|---|---|---|---|
-| UNU Yogyakarta | S1 Informatika | 2023 – Sekarang | IPK 3.95 / 4.00 |
-| SMK TKMT Kebumen | Multimedia | 2020 – 2023 | Nilai Akhir 89.90 / 100 |
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## Contribution Snake
-
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-<details>
-<summary><sub>Cara mengaktifkan animasi snake di atas</sub></summary>
-<br/>
-
-Gambar di atas baru tampil setelah GitHub Action di-setup sekali di repo profil (`HudaMuliya/HudaMuliya`):
-
-1. Buat file `.github/workflows/snake.yml` (sudah disiapkan, lihat file terlampir) di repo profil kamu.
-2. Buka tab **Actions** di repo tersebut → jalankan workflow **Generate Snake** sekali secara manual (*Run workflow*).
-3. Setelah selesai, branch `output` otomatis terbentuk berisi file SVG snake, dan gambar di README akan langsung muncul. Selanjutnya animasi ini ter-update otomatis tiap hari sesuai jadwal cron.
-
-</details>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HudaMuliya&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HudaMuliya&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-<div align="center">
-
-<img src="assets/footer.svg" width="100%"/>
-
-</div>
+<!-- ═══════════════════ ANIMATED FOOTER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,16,6&height=140&section=footer&text=Godean%2C%20DIY%2C%20Indonesia&fontSize=18&fontColor=c4b5fd&fontAlignY=55&desc=%22Combining+logic+with+communication+%E2%80%94+building+interfaces+and+connections.%22&descSize=12&descColor=94a3b8&descAlignY=75" width="100%"/>
