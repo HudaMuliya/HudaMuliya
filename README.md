@@ -12,6 +12,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Frontend+Engineer+%E2%80%94+React+%26+Next.js;UI%2FUX+Designer+%E2%80%94+Figma;Master+of+Ceremony+%26+Public+Speaker;Ketua+Himpunan+Mahasiswa+Informatika" alt="Typing SVG"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HudaMuliya&label=Profile%20Views&color=302b63&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/HudaMuliya?label=Followers&style=flat-square&color=302b63&labelColor=20133D" alt="Followers"/>
+
 </div>
 
 <br/>
@@ -131,12 +136,46 @@ Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memaduk
 
 <br/>
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<details>
+<summary><sub>Cara mengaktifkan animasi snake di atas</sub></summary>
+<br/>
+
+Gambar di atas baru tampil setelah GitHub Action di-setup sekali di repo profil (`HudaMuliya/HudaMuliya`):
+
+1. Buat file `.github/workflows/snake.yml` (sudah disiapkan, lihat file terlampir) di repo profil kamu.
+2. Buka tab **Actions** di repo tersebut → jalankan workflow **Generate Snake** sekali secara manual (*Run workflow*).
+3. Setelah selesai, branch `output` otomatis terbentuk berisi file SVG snake, dan gambar di README akan langsung muncul. Selanjutnya animasi ini ter-update otomatis tiap hari sesuai jadwal cron.
+
+</details>
+
+<br/>
+
 ## GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HudaMuliya&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HudaMuliya&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
