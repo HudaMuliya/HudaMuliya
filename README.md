@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Huda%20Muliya&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Public%20Speaker&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <a href="https://portofolio-huda-muliya.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20133D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/huda-muliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-20133D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,13 +19,13 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Tentang Saya
 
 Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memadukan kompetensi teknis di bidang **Frontend Development & UI/UX Design** dengan kemampuan komunikasi publik sebagai **Master of Ceremony** dan **Digital Content Creator**. Saat ini menjabat sebagai **Ketua Himpunan Mahasiswa Informatika (HIMATIKA)**, memimpin koordinasi strategis organisasi sekaligus aktif membangun produk digital di dunia profesional.
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Tech Stack
 
@@ -35,9 +35,17 @@ Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memaduk
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Kompetensi Inti
+
+<div align="center">
+
+<img src="assets/skills-radar.svg" width="560"/>
+
+</div>
+
+<br/>
 
 <table width="100%">
 <tr>
@@ -62,7 +70,7 @@ Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memaduk
 </tr>
 </table>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Proyek Unggulan
 
@@ -105,7 +113,7 @@ Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memaduk
 </tr>
 </table>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Pengalaman Profesional
 
@@ -125,7 +133,7 @@ Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memaduk
 - **Ketua Himpunan** — HMP Informatika UNU Yogyakarta (HIMATIKA) · *Juni 2025 – Sekarang*
   Memimpin koordinasi strategis organisasi, menyusun program kerja tahunan, mengelola komunikasi eksternal.
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Pendidikan
 
@@ -134,7 +142,7 @@ Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memaduk
 | UNU Yogyakarta | S1 Informatika | 2023 – Sekarang | IPK 3.95 / 4.00 |
 | SMK TKMT Kebumen | Multimedia | 2020 – 2023 | Nilai Akhir 89.90 / 100 |
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## Contribution Snake
 
@@ -160,7 +168,7 @@ Gambar di atas baru tampil setelah GitHub Action di-setup sekali di repo profil 
 
 </details>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## GitHub Analytics
 
@@ -179,14 +187,10 @@ Gambar di atas baru tampil setelah GitHub Action di-setup sekali di repo profil 
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
-
-<sub>Godean, DIY, Indonesia</sub>
-<br/>
-<sub>"Combining logic with communication — building interfaces and connections."</sub>
+<img src="assets/footer.svg" width="100%"/>
 
 </div>

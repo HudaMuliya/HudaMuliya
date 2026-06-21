@@ -1,0 +1,111 @@
+<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050308">
+        <animate attributeName="stop-color" values="#050308;#0d0620;#050308" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#1a1033">
+        <animate attributeName="stop-color" values="#1a1033;#241454;#1a1033" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0a0518">
+        <animate attributeName="stop-color" values="#0a0518;#140a2e;#0a0518" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="22s" repeatCount="indefinite"/>
+    </pattern>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowText" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur">
+        <animate attributeName="stdDeviation" values="5;10;5" dur="4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="280">
+        <animate attributeName="width" from="0" to="1200" dur="2.2s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="1200" height="280" rx="18" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="277" rx="16" fill="none" stroke="#A78BFA" stroke-opacity="0.18" stroke-width="1.5"/>
+
+  <!-- floating particles -->
+  <g filter="url(#glow)">
+    <circle cx="120" cy="60" r="2.4" fill="#A78BFA" opacity="0.7">
+      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="3.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="220" cy="200" r="2" fill="#60A5FA" opacity="0.6">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="4.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,12; 0,0" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="150" r="1.8" fill="#A78BFA" opacity="0.5">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="70" r="2.6" fill="#60A5FA" opacity="0.7">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-16; 0,0" dur="5.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="210" r="2.1" fill="#A78BFA" opacity="0.55">
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="4.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,10; 0,0" dur="6.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1130" cy="150" r="1.7" fill="#60A5FA" opacity="0.5">
+      <animate attributeName="opacity" values="0.1;0.65;0.1" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="40" r="1.6" fill="#A78BFA" opacity="0.4">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="235" r="1.9" fill="#60A5FA" opacity="0.45">
+      <animate attributeName="opacity" values="0.1;0.65;0.1" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="230" r="1.9" fill="#A78BFA" opacity="0.45">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- main title -->
+  <text x="600" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="58" letter-spacing="2" fill="url(#textGrad)" filter="url(#glowText)">HUDA MULIYA</text>
+
+  <!-- subtitle with typewriter reveal -->
+  <g clip-path="url(#reveal)">
+    <text x="600" y="178" text-anchor="middle" font-family="'Courier New', monospace" font-weight="500" font-size="19" letter-spacing="3.5" fill="#C9C3E8" opacity="0.9">FRONTEND ENGINEER &#183; UI/UX DESIGNER &#183; PUBLIC SPEAKER</text>
+  </g>
+
+  <!-- thin accent line -->
+  <line x1="460" y1="200" x2="740" y2="200" stroke="url(#textGrad)" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- scanning light bar -->
+  <rect x="-200" y="262" width="220" height="2" fill="url(#scanGrad)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 1400,0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
