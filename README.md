@@ -48,6 +48,14 @@ Saya adalah mahasiswa **S1 Informatika di UNU Yogyakarta** (IPK **3.95/4.00**) y
     *   Sistem pendukung keputusan (SPK) berbasis web dengan metode SAW untuk rekomendasi perawatan rambut.
     *   `React.js` • `FastAPI` • `SAW Method`
     *   **Links:** [Figma Design](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1) | [Live Demo](https://front-end-hair-check.vercel.app/)
+*   **✈️ NusaGo – Digital Travel Platform** *(Frontend Developer Intern)*
+    *   Pengembangan dan pemeliharaan antarmuka web platform pemesanan tiket dan layanan perjalanan yang responsif dan interaktif.
+    *   `React.js` • `Vite` • `Tailwind CSS`
+    *   **Links:** [Live Demo](https://nusago.id/)
+*   **🛍️ Bekasin – Second-Hand Marketplace** *(Frontend Developer)*
+    *   Platform e-commerce/marketplace digital berbasis web yang dirancang khusus untuk memfasilitasi transaksi jual-beli barang bekas (thrifting) dengan antarmuka modern.
+    *   `React.js` • `Tailwind CSS` • `Vite`
+    *   **Links:** [Live Demo](https://bekasin-marketplace.vercel.app/)
 *   **🍎 AppleScan – Classification System** *(Frontend Developer)*
     *   Antarmuka web interaktif untuk sistem klasifikasi kualitas buah apel berbasis Machine Learning KNN.
     *   `Python` • `KNN` • `Responsive Layout`
