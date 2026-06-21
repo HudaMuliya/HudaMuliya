@@ -1,9 +1,9 @@
-# Hi there! I'm Huda Muliya 👋
-### Creative Technologist | Web Developer | Public Communicator | Digital Content Creator
-
 <p align="center">
-  <img src="./developer-card.svg" alt="Huda Muliya Animated Profile Banner" width="830" />
+  <img src="image_0.png" alt="Huda Muliya Professional Banner" width="100%" />
 </p>
+
+# 👋 Hi there! I'm Huda Muliya
+### **Creative Technologist | Frontend Developer | Public Communicator**
 
 <p align="center">
   <a href="https://portofolio-huda-muliya.vercel.app" target="_blank">
@@ -14,9 +14,6 @@
   </a>
   <a href="https://www.instagram.com/huda0xa___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.tiktok.com/@hudaaa_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="mailto:hudamuliya@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -30,80 +27,72 @@
 
 ## 💫 Tentang Saya (About Me)
 
-Saya adalah mahasiswa **S1 Informatika di UNU Yogyakarta** (IPK 3.95/4.00) yang memadukan keahlian teknis di bidang **Pengembangan Web & UI/UX Design** dengan kemampuan komunikasi dan kreativitas di bidang **Public Speaking (MC)** dan **Digital Content Strategy**. Sebagai **Ketua Himpunan Mahasiswa Informatika (HIMATIKA)**, saya terbiasa memimpin tim teknis maupun kreatif untuk membangun produk digital dan menyelenggarakan kegiatan berskala besar.
+Saya adalah mahasiswa **S1 Informatika di UNU Yogyakarta** (IPK **3.95/4.00**) yang secara unik memadukan keahlian teknis dalam **Pengembangan Web & UI/UX Design** dengan kemampuan komunikasi strategis sebagai **Public Speaker (MC)** dan **Digital Content Creator**. Sebagai **Ketua Himpunan Mahasiswa Informatika (HIMATIKA)**, saya berpengalaman memimpin tim multidisiplin untuk membangun solusi digital yang berdampak.
 
 ---
 
 ## 🧠 Fokus & Kompetensi Utama
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Tech & Development</h4>
-      <ul>
-        <li><b>Frontend Engineering</b>: React.js, Next.js, Tailwind CSS, Bootstrap</li>
-        <li><b>Backend & Scripting</b>: Python, PHP, FastAPI, RESTful API</li>
-        <li><b>UI/UX Design</b>: User-Centered Design, Wireframing, Figma</li>
-        <li><b>Architecture</b>: MVC Pattern, Responsive Web Design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎙️ Creative & Communication</h4>
-      <ul>
-        <li><b>Event Hosting</b>: Master of Ceremony (Formal, Seminar, & Wisuda)</li>
-        <li><b>Branding & Modeling</b>: Talent Kampus & Brand Collaboration</li>
-        <li><b>Content Creation</b>: Digital Campaign & Media Production</li>
-        <li><b>Leadership</b>: Strategic Coordination & Public Communication</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| 💻 Tech & Development | 🎙️ Creative & Communication |
+| :--- | :--- |
+| **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap | **Public Speaking:** Master of Ceremony (Formal, Seminar, Wisuda) |
+| **Backend:** Python, PHP, FastAPI, RESTful API | **Branding:** Campus Talent & Brand Ambassador Collaboration |
+| **UI/UX Design:** User-Centered Design, Wireframing, Figma | **Digital:** Content Strategy, Media Production, Campaign Planning |
+| **Architecture:** MVC Pattern, Responsive Web Design | **Leadership:** Strategic Coordination & Public Communication |
 
 ---
 
 ## 🚀 Proyek Pilihan (Featured Projects)
 
-* **HairCheck – Decision Support System** *(UI/UX & Frontend Developer)*
-  * Sistem pendukung keputusan (SPK) berbasis web dengan metode SAW untuk rekomendasi perawatan rambut berdasarkan kondisi kulit kepala.
-  * **Tech:** React.js • FastAPI • SAW Method
-  * **Link:** [Figma Design](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1) | [Live Demo](https://front-end-hair-check.vercel.app/)
-* **AppleScan – Classification System** *(Frontend Developer)*
-  * Antarmuka web interaktif untuk sistem klasifikasi kualitas buah apel berbasis Machine Learning menggunakan algoritma KNN.
-  * **Tech:** Python • KNN • Responsive Layout
-  * **Link:** [Live Demo](https://apple-scan.vercel.app/)
-* **School Website Redesign** *(Freelance Frontend Developer)*
-  * Desain dan pengembangan landing page interaktif terintegrasi untuk digitalisasi profil sekolah PP Roudlotush Sholihin.
-  * **Tech:** React.js • Tailwind CSS • Component Architecture
-  * **Link:** [Website Sekolah](https://roudlotushsholihin.ponpes.id/)
+*   **⚡ HairCheck – Decision Support System** *(UI/UX & Frontend Developer)*
+    *   Sistem pendukung keputusan (SPK) berbasis web dengan metode SAW untuk rekomendasi perawatan rambut.
+    *   `React.js` • `FastAPI` • `SAW Method`
+    *   **Links:** [Figma Design](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1) | [Live Demo](https://front-end-hair-check.vercel.app/)
+*   **🍎 AppleScan – Classification System** *(Frontend Developer)*
+    *   Antarmuka web interaktif untuk sistem klasifikasi kualitas buah apel berbasis Machine Learning KNN.
+    *   `Python` • `KNN` • `Responsive Layout`
+    *   **Links:** [Live Demo](https://apple-scan.vercel.app/)
+*   **🏫 School Website Redesign** *(Freelance Frontend Developer)*
+    *   Desain dan pengembangan landing page interaktif terintegrasi untuk digitalisasi profil sekolah PP Roudlotush Sholihin.
+    *   `React.js` • `Tailwind CSS`
+    *   **Links:** [Website Sekolah](https://roudlotushsholihin.ponpes.id/)
 
 ---
 
-## 💼 Pengalaman Profesional & Kepemimpinan (Experience & Leadership)
+## 💼 Pengalaman (Experience)
 
-### 💻 Tech Experience
-* **PT NusaGo Digital Travelindo** — *Frontend Developer Intern* *(April 2026 - Sekarang)*
-  * Mengembangkan antarmuka aplikasi web travel, mengimplementasikan desain responsif dari Figma, dan berkolaborasi dalam tim produk digital.
-* **Freelance Web Developer** — *Self-Employed* *(Des 2025 - Sekarang)*
-  * Membangun antarmuka web kustom yang interaktif menggunakan React.js untuk berbagai klien.
+### 💻 Teknologi & Pengembangan
 
-### 🎙️ Creative Experience
-* **Master of Ceremony & Host** — *Freelance & Campus Events* *(Sep 2024 - Sekarang)*
-  * Memandu puluhan acara akademik dan non-akademik universitas dengan total audiens mencapai 1000+, termasuk *Wisuda UNU Yogyakarta 2025*, *Seminar Hari Guru*, dan *OSPEK Genius*.
-* **Freelance Model & Content Creator** — *Brand Ambassador Collaboration* *(Juli 2023 - Sekarang)*
-  * Kolaborasi digital membuat konten kreatif di Instagram bersama brand terkemuka (**Rexona, Pocari Sweat, Skin1004, Isntree, Herbavomitz, Realfood**).
+*   **🏢 PT NusaGo Digital Travelindo** — *Frontend Developer Intern*
+    *   *April 2026 - Sekarang*
+    *   Mengembangkan antarmuka aplikasi web travel, mengimplementasikan desain responsif, dan berkolaborasi dalam tim produk digital.
+*   **🛠️ Freelance Web Developer** — *Self-Employed*
+    *   *Des 2025 - Sekarang*
+    *   Membangun antarmuka web kustom yang interaktif menggunakan React.js untuk berbagai klien.
 
-### 🏢 Leadership
-* **HMP Informatika UNU Yogyakarta (HIMATIKA)** — *Ketua Himpunan* *(Juni 2025 - Sekarang)*
-  * Memimpin koordinasi strategis organisasi, menyusun program kerja tahunan mahasiswa, dan mengelola komunikasi eksternal.
+### 🎙️ Kreatif & Komunikasi
+
+*   **🎤 Master of Ceremony & Host** — *Freelance & Campus Events*
+    *   *Sep 2024 - Sekarang*
+    *   Memandu puluhan acara akademik dan non-akademik universitas (audiens 1000+), termasuk Wisuda UNU Yogyakarta 2025.
+*   **📸 Freelance Model & Content Creator** — *Collaboration*
+    *   *Juli 2023 - Sekarang*
+    *   Kolaborasi digital membuat konten kreatif bersama brand terkemuka (**Rexona, Pocari Sweat, Skin1004, Isntree, Realfood**).
+
+### 🏢 Kepemimpinan (Leadership)
+
+*   **🦁 HMP Informatika UNU Yogyakarta (HIMATIKA)** — *Ketua Himpunan*
+    *   *Juni 2025 - Sekarang*
+    *   Memimpin koordinasi strategis organisasi, menyusun program kerja tahunan, dan mengelola komunikasi eksternal.
 
 ---
 
 ## 🎓 Pendidikan (Education)
 
-* **S1 Informatika** — Universitas Nahdlatul Ulama Yogyakarta *(2023 - Sekarang)*
-  * **IPK:** 3.95 / 4.00 | Fokus pada Web Development, Rekayasa Perangkat Lunak, & Desain UI/UX.
-* **Multimedia** — SMK TKMT Kebumen *(2020 - 2023)*
-  * **Nilai:** 89.90 / 100 | Fokus pada Graphic Design, Multimedia Production, & Visual Communication.
+*   **S1 Informatika** — Universitas Nahdlatul Ulama Yogyakarta
+    *   *2023 - Sekarang* | **IPK: 3.95 / 4.00**
+*   **Multimedia** — SMK TKMT Kebumen
+    *   *2020 - 2023* | **Nilai: 89.90 / 100**
 
 ---
 
@@ -118,5 +107,5 @@ Saya adalah mahasiswa **S1 Informatika di UNU Yogyakarta** (IPK 3.95/4.00) yang 
 
 <p align="center">
   <i>"Combining logic with communication, building interfaces and connections."</i><br>
-  <b>Huda Muliya</b> • Sleman, DIY, Indonesia
+  <b>Huda Muliya</b> • Godean, DIY, Indonesia
 </p>
