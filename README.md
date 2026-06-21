@@ -1,115 +1,153 @@
-<p align="center">
-  <img src="image_0.png" alt="Huda Muliya Solo Leveling Banner" width="100%" />
-</p>
+<div align="center">
 
-# 👤 HUNTER STATUS WINDOW
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Huda%20Muliya&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Public%20Speaker&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://portofolio-huda-muliya.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/huda-muliya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/huda0xa___" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:hudamuliya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/62895423216883" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+<a href="https://portofolio-huda-muliya.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20133D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/huda-muliya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-20133D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/huda0xa___" target="_blank"><img src="https://img.shields.io/badge/Instagram-20133D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:hudamuliya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-20133D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/62895423216883" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20133D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
----
+<br/>
 
-## 💫 Deskripsi Hunter (About Me)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Frontend+Engineer+%E2%80%94+React+%26+Next.js;UI%2FUX+Designer+%E2%80%94+Figma;Master+of+Ceremony+%26+Public+Speaker;Ketua+Himpunan+Mahasiswa+Informatika" alt="Typing SVG"/>
 
-Saya adalah mahasiswa **S1 Informatika di UNU Yogyakarta** (IPK **3.95/4.00**) yang secara unik memadukan kekuatan analitis di bidang **Pengembangan Web & UI/UX Design** dengan kemampuan komunikasi tingkat tinggi sebagai **Public Speaker (MC)** dan **Digital Content Creator**. Selaku **Ketua Himpunan Mahasiswa Informatika (HIMATIKA)**, saya berpengalaman memimpin tim untuk menyelesaikan berbagai misi digital yang kompleks.
+</div>
 
----
+<br/>
 
-## 📊 Hunter Stats (Skill Points)
+## Tentang Saya
 
-| 💻 Tech & Development Stats | 🎙️ Creative & Communication Stats |
-| :--- | :--- |
-| **STR (Frontend Engineering):** 85% <br>`[██████████████████████████░░░░░]` <br>React.js, Next.js, Tailwind CSS, Bootstrap | **CHA (Public Speaking):** 95% <br>`[██████████████████████████████░░]` <br>Master of Ceremony (Formal, Seminar, Wisuda) |
-| **INT (Backend & API Systems):** 75% <br>`[██████████████████████░░░░░░░░░░]` <br>Python, PHP, FastAPI, RESTful API | **AGI (Branding & Identity):** 85% <br>`[██████████████████████████░░░░░]` <br>Campus Talent & Brand Ambassador |
-| **SEN (UI/UX & Wireframing):** 80% <br>`[████████████████████████░░░░░░░░]` <br>User-Centered Design, Wireframing, Figma | **LUK (Digital Content):** 80% <br>`[████████████████████████░░░░░░░░]` <br>Content Strategy, Media Production, Campaign Planning |
-| **VIT (Architecture & Systems):** 75% <br>`[██████████████████████░░░░░░░░░░]` <br>MVC Pattern, Responsive Web Design | **LEAD (Leadership):** 90% <br>`[████████████████████████████░░░░]` <br>Strategic Coordination & Public Relation |
+Mahasiswa S1 Informatika di **UNU Yogyakarta** dengan IPK **3.95/4.00**, memadukan kompetensi teknis di bidang **Frontend Development & UI/UX Design** dengan kemampuan komunikasi publik sebagai **Master of Ceremony** dan **Digital Content Creator**. Saat ini menjabat sebagai **Ketua Himpunan Mahasiswa Informatika (HIMATIKA)**, memimpin koordinasi strategis organisasi sekaligus aktif membangun produk digital di dunia profesional.
 
----
+<br/>
 
-## ⚔️ Misi yang Diselesaikan (Completed Quests / Projects)
+## Tech Stack
 
-*   **⚡ HairCheck – Decision Support System** *(UI/UX & Frontend Developer)*
-    *   *Objective:* Sistem pendukung keputusan (SPK) berbasis web dengan metode SAW untuk rekomendasi perawatan rambut.
-    *   *Loot:* `React.js` • `FastAPI` • `SAW Method`
-    *   *Portal:* [Figma Design](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1) | [Live Demo](https://front-end-hair-check.vercel.app/)
-*   **✈️ NusaGo – Digital Travel Platform** *(Frontend Developer Intern)*
-    *   *Objective:* Pengembangan dan pemeliharaan antarmuka web platform pemesanan tiket dan layanan perjalanan yang responsif dan interaktif.
-    *   *Loot:* `React.js` • `Vite` • `Tailwind CSS`
-    *   *Portal:* [Live Demo](https://nusago.id/)
-*   **🛍️ Bekasin – Second-Hand Marketplace** *(Frontend Developer)*
-    *   *Objective:* Platform e-commerce/marketplace digital berbasis web yang dirancang khusus untuk memfasilitasi transaksi jual-beli barang bekas (thrifting).
-    *   *Loot:* `React.js` • `Tailwind CSS` • `Vite`
-    *   *Portal:* [Live Demo](https://bekasin-marketplace.vercel.app/)
-*   **🍎 AppleScan – Classification System** *(Frontend Developer)*
-    *   *Objective:* Antarmuka web interaktif untuk sistem klasifikasi kualitas buah apel berbasis Machine Learning KNN.
-    *   *Loot:* `Python` • `KNN` • `Responsive Layout`
-    *   *Portal:* [Live Demo](https://apple-scan.vercel.app/)
-*   **🏫 School Website Redesign** *(Freelance Frontend Developer)*
-    *   *Objective:* Desain dan pengembangan landing page interaktif terintegrasi untuk digitalisasi profil sekolah PP Roudlotush Sholihin.
-    *   *Loot:* `React.js` • `Tailwind CSS`
-    *   *Portal:* [Website Sekolah](https://roudlotushsholihin.ponpes.id/)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,python,php,fastapi,figma,git,github,vscode,vercel&theme=dark" alt="Tech Stack"/>
 
-## 💼 Catatan Ekspedisi (Experience & Raid History)
+</div>
 
-### 💻 Raid Bidang Teknologi (Tech Experience)
-*   **🏢 PT NusaGo Digital Travelindo Guild** — *Frontend Developer Intern*
-    *   *April 2026 - Sekarang*
-    *   Mengembangkan antarmuka aplikasi web travel, mengimplementasikan desain responsif, dan berkolaborasi dalam tim produk digital.
-*   **🛠️ Independent Party (Freelance Web Developer)** — *Self-Employed*
-    *   *Des 2025 - Sekarang*
-    *   Membangun antarmuka web kustom yang interaktif menggunakan React.js untuk berbagai klien.
+<br/>
 
-### 🎙️ Raid Bidang Kreatif (Creative Experience)
-*   **🎤 Master of Ceremony & Host** — *Freelance & Campus Events*
-    *   *Sep 2024 - Sekarang*
-    *   Memandu puluhan acara akademik dan non-akademik universitas (audiens 1000+), termasuk Wisuda UNU Yogyakarta 2025.
-*   **📸 Freelance Model & Content Creator** — *Collaboration*
-    *   *Juli 2023 - Sekarang*
-    *   Kolaborasi digital membuat konten kreatif bersama brand terkemuka (**Rexona, Pocari Sweat, Skin1004, Isntree, Realfood**).
+## Kompetensi Inti
 
-### 👑 Guild Master (Leadership)
-*   **🦁 HMP Informatika UNU Yogyakarta (HIMATIKA)** — *Ketua Himpunan*
-    *   *Juni 2025 - Sekarang*
-    *   Memimpin koordinasi strategis organisasi, menyusun program kerja tahunan, dan mengelola komunikasi eksternal.
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
----
+**Technical**
+- Frontend Engineering — React.js, Next.js, Tailwind CSS, Bootstrap
+- Backend & API Systems — Python, PHP, FastAPI, RESTful API
+- UI/UX Design — User-Centered Design, Wireframing, Figma
+- System Architecture — MVC Pattern, Responsive Web Design
 
-## 🎓 Tempat Pelatihan (Education)
+</td>
+<td valign="top" width="50%">
 
-*   **UNU Yogyakarta Academy** (S1 Informatika) ─── `LVL UP`
-    *   *2023 - Sekarang* | **IPK: 3.95 / 4.00**
-*   **SMK TKMT Kebumen Academy** (Multimedia) ─── `GRADUATED`
-    *   *2020 - 2023* | **Nilai: 89.90 / 100**
+**Creative & Leadership**
+- Public Speaking — MC untuk acara formal, seminar, wisuda
+- Brand & Identity — Campus Talent, Brand Ambassador
+- Digital Content — Content Strategy, Media Production
+- Leadership — Strategic Coordination, Public Relations
 
----
+</td>
+</tr>
+</table>
 
-## 📊 Statistik Hunter (GitHub Stats)
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## Proyek Unggulan
 
----
+<table width="100%">
+<tr><th align="left">Proyek</th><th align="left">Peran</th><th align="left">Deskripsi</th><th align="left">Stack</th><th align="left">Tautan</th></tr>
+<tr>
+<td><b>HairCheck</b></td>
+<td>UI/UX & Frontend Developer</td>
+<td>Sistem pendukung keputusan (SPK) berbasis web dengan metode SAW untuk rekomendasi perawatan rambut.</td>
+<td><code>React.js</code> <code>FastAPI</code> <code>SAW</code></td>
+<td><a href="https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1">Figma</a> · <a href="https://front-end-hair-check.vercel.app/">Demo</a></td>
+</tr>
+<tr>
+<td><b>NusaGo</b></td>
+<td>Frontend Developer Intern</td>
+<td>Antarmuka web platform pemesanan tiket dan layanan perjalanan yang responsif dan interaktif.</td>
+<td><code>React.js</code> <code>Vite</code> <code>Tailwind</code></td>
+<td><a href="https://nusago.id/">Demo</a></td>
+</tr>
+<tr>
+<td><b>Bekasin</b></td>
+<td>Frontend Developer</td>
+<td>Platform marketplace digital untuk transaksi jual-beli barang bekas (thrifting).</td>
+<td><code>React.js</code> <code>Tailwind</code> <code>Vite</code></td>
+<td><a href="https://bekasin-marketplace.vercel.app/">Demo</a></td>
+</tr>
+<tr>
+<td><b>AppleScan</b></td>
+<td>Frontend Developer</td>
+<td>Antarmuka web interaktif untuk sistem klasifikasi kualitas buah apel berbasis Machine Learning KNN.</td>
+<td><code>Python</code> <code>KNN</code></td>
+<td><a href="https://apple-scan.vercel.app/">Demo</a></td>
+</tr>
+<tr>
+<td><b>School Website Redesign</b></td>
+<td>Freelance Frontend Developer</td>
+<td>Landing page interaktif untuk digitalisasi profil sekolah PP Roudlotush Sholihin.</td>
+<td><code>React.js</code> <code>Tailwind</code></td>
+<td><a href="https://roudlotushsholihin.ponpes.id/">Website</a></td>
+</tr>
+</table>
 
-<p align="center">
-  <i>"Combining logic with communication, building interfaces and connections."</i><br>
-  <b>Huda Muliya</b> • Godean, DIY, Indonesia
-</p>
+<br/>
+
+## Pengalaman Profesional
+
+**Technical Experience**
+- **Frontend Developer Intern** — PT NusaGo Digital Travelindo · *April 2026 – Sekarang*
+  Mengembangkan antarmuka aplikasi web travel, mengimplementasikan desain responsif, berkolaborasi dalam tim produk digital.
+- **Freelance Web Developer** — Self-Employed · *Des 2025 – Sekarang*
+  Membangun antarmuka web kustom yang interaktif menggunakan React.js untuk berbagai klien.
+
+**Creative & Public Engagement**
+- **Master of Ceremony & Host** — Freelance & Campus Events · *Sep 2024 – Sekarang*
+  Memandu puluhan acara akademik dan non-akademik dengan audiens 1000+, termasuk Wisuda UNU Yogyakarta 2025.
+- **Freelance Model & Content Creator** — Collaboration · *Juli 2023 – Sekarang*
+  Kolaborasi konten kreatif bersama brand seperti Rexona, Pocari Sweat, Skin1004, Isntree, dan Realfood.
+
+**Leadership**
+- **Ketua Himpunan** — HMP Informatika UNU Yogyakarta (HIMATIKA) · *Juni 2025 – Sekarang*
+  Memimpin koordinasi strategis organisasi, menyusun program kerja tahunan, mengelola komunikasi eksternal.
+
+<br/>
+
+## Pendidikan
+
+| Institusi | Program | Periode | Pencapaian |
+|---|---|---|---|
+| UNU Yogyakarta | S1 Informatika | 2023 – Sekarang | IPK 3.95 / 4.00 |
+| SMK TKMT Kebumen | Multimedia | 2020 – 2023 | Nilai Akhir 89.90 / 100 |
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+
+<sub>Godean, DIY, Indonesia</sub>
+<br/>
+<sub>"Combining logic with communication — building interfaces and connections."</sub>
+
+</div>
