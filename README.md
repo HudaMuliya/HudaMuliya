@@ -2,6 +2,10 @@
 ### Creative Technologist | Web Developer | Public Communicator | Digital Content Creator
 
 <p align="center">
+  <img src="./developer-card.svg" alt="Huda Muliya Animated Profile Banner" width="830" />
+</p>
+
+<p align="center">
   <a href="https://portofolio-huda-muliya.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
@@ -27,6 +31,140 @@
 ## 💫 Ringkasan Profesional (Professional Summary)
 
 Mahasiswa Program Studi **Informatika Universitas Nahdlatul Ulama Yogyakarta** yang memiliki ketertarikan mendalam pada pengembangan web, desain antarmuka digital, dan komunikasi publik. Berpengalaman dalam mengerjakan beberapa proyek aplikasi berbasis web menggunakan PHP dan React.js, serta aktif dalam kegiatan organisasi, *public speaking*, dan pembuatan konten digital. Selain itu, juga memiliki jam terbang tinggi sebagai Master of Ceremony dalam berbagai acara akademik dan organisasi tingkat universitas. Dikenal sebagai pribadi yang adaptif, komunikatif, disiplin, dan mampu berkolaborasi dengan baik dalam lingkungan kerja teknis maupun kreatif.
+
+---
+
+## 🎮 Game Interaktif: Huda's Tech & Creative Quest
+Pilihlah salah satu peran di bawah ini untuk memulai petualangan interaktif menjelajahi portofolio Huda! Klik pada opsi untuk membuka cerita berikutnya.
+
+<details>
+  <summary><b>💻 Jalur Developer (Web & UI/UX)</b></summary>
+  <blockquote style="background-color: #0d1117; border-left: 4px solid #22d3ee; padding: 10px; margin-top: 10px;">
+    Kamu baru saja bergabung sebagai Frontend Developer Intern di <b>PT NusaGo Digital Travelindo</b>. Tugas pertamamu adalah mengimplementasikan desain Figma baru yang interaktif dan responsif pada berbagai perangkat. Apa strategi pertamamu?
+  </blockquote>
+  
+  <details style="margin-left: 20px; margin-top: 5px;">
+    <summary><i>Pilihan A: Menggunakan CSS Flexbox/Grid dengan Tailwind CSS untuk fleksibilitas tinggi.</i></summary>
+    <blockquote style="background-color: #0d1117; border-left: 4px solid #28a745; padding: 10px; margin-top: 10px;">
+      <b>Berhasil!</b> Layout website ter-render dengan sempurna, responsif di mobile, dan lolos uji linter. Tim sangat terkesan! 
+      <br><br>
+      Kini kamu dialihkan ke proyek riset mandiri: <b>HairCheck System</b> (Sistem Pendukung Keputusan kesehatan kulit kepala). Kamu harus memilih algoritma penentuan rekomendasi perawatan terbaik. Apa pilihanmu?
+    </blockquote>
+    
+    <details style="margin-left: 20px; margin-top: 5px;">
+      <summary><b>Opsi A1: Menggunakan Metode SAW (Simple Additive Weighting) untuk pembobotan kriteria.</b></summary>
+      <blockquote style="background-color: #0d1117; border-left: 4px solid #28a745; padding: 10px; margin-top: 10px;">
+        🎉 <b>Luar Biasa!</b> Sistem pendukung keputusan berjalan mulus, memberikan rekomendasi yang presisi berdasarkan kondisi kulit kepala pengguna. Kamu berhasil meluncurkan aplikasi ini dan dihadiahi <b>Lencana Master Developer 🏆</b>!
+        <br><br>
+        👉 Lihat proyek nyata ini di: <a href="https://front-end-hair-check.vercel.app/" target="_blank">Live HairCheck Demo</a> | <a href="https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdK/HAIRCHECK?node-id=0-1" target="_blank">Figma Design</a>
+      </blockquote>
+    </details>
+    
+    <details style="margin-left: 20px; margin-top: 5px;">
+      <summary><b>Opsi A2: Menggunakan Algoritma K-Nearest Neighbor (KNN).</b></summary>
+      <blockquote style="background-color: #0d1117; border-left: 4px solid #dc3545; padding: 10px; margin-top: 10px;">
+        ❌ Kurang tepat untuk SPK pembobotan kriteria rambut. Namun, KNN adalah algoritma yang tepat untuk klasifikasi citra buah pada proyek <b>AppleScan</b>!
+        <br><br>
+        👉 Coba kembali pilihan di atas dan pilih metode <b>SAW</b> untuk menyelesaikan HairCheck Quest! Atau kamu bisa melihat proyek klasifikasi apel di sini: <a href="https://apple-scan.vercel.app/" target="_blank">Live AppleScan Demo</a>
+      </blockquote>
+    </details>
+  </details>
+  
+  <details style="margin-left: 20px; margin-top: 5px;">
+    <summary><i>Pilihan B: Menulis ribuan baris CSS manual murni inline di setiap komponen.</i></summary>
+    <blockquote style="background-color: #0d1117; border-left: 4px solid #dc3545; padding: 10px; margin-top: 10px;">
+      <b>Oh tidak!</b> Codebase menjadi berantakan, sulit dipelihara, dan memicu error pada proses building. Lead Engineer menyuruhmu me-refactor kode. 
+      <br><br>
+      👉 Putar balik dan pilih <b>Pilihan A (Tailwind CSS)</b> untuk menyelamatkan proyek!
+    </blockquote>
+  </details>
+</details>
+
+<details>
+  <summary><b>🎙️ Jalur Public Communicator (Master of Ceremony)</b></summary>
+  <blockquote style="background-color: #0d1117; border-left: 4px solid #f97316; padding: 10px; margin-top: 10px;">
+    Kamu memegang mikrofon di atas panggung megah <b>Wisuda 2025 UNU Yogyakarta</b>. Di depanmu duduk Rektor, Senat, dan lebih dari 1000 wisudawan beserta orang tua mereka. Ruangan menjadi hening menanti suaramu membuka prosesi pemanggilan wisudawan. Bagaimana kamu membuka acara?
+  </blockquote>
+  
+  <details style="margin-left: 20px; margin-top: 5px;">
+    <summary><i>Pilihan A: Mulai dengan suara diafragma mantap, artikulasi jelas, membawakan salam formal yang khidmat namun hangat.</i></summary>
+    <blockquote style="background-color: #0d1117; border-left: 4px solid #28a745; padding: 10px; margin-top: 10px;">
+      <b>Luar biasa!</b> Suaramu menggema dengan penuh wibawa. Seluruh hadirin mendengarkan dengan seksama, dan prosesi pembukaan berjalan khidmat dan tertib. 
+      <br><br>
+      Acara berlanjut ke sesi non-formal: <b>Euforia & Selebrasi Wisudawan</b>. Suasana panggung perlu dicairkan agar lebih ceria dan interaktif tanpa kehilangan ketertiban. Apa tindakanmu?
+    </blockquote>
+    
+    <details style="margin-left: 20px; margin-top: 5px;">
+      <summary><b>Opsi A1: Mengajak audiens bertepuk tangan berirama, membawakan pantun selebrasi, dan berinteraksi langsung dengan beberapa wisudawan.</b></summary>
+      <blockquote style="background-color: #0d1117; border-left: 4px solid #28a745; padding: 10px; margin-top: 10px;">
+        🎉 <b>Sukses Besar!</b> Seluruh wisudawan bersorak gembira, atmosfer dipenuhi kebahagiaan, dan Rektor memberikan apresiasi atas pembawaan MC-mu yang dinamis. Kamu dianugerahi <b>Bintang Emas Public Speaker ⭐</b>!
+        <br><br>
+        👉 Prestasi ini nyata terjadi pada event: <i>Wisuda UNU Jogja 2025</i> & <i>OSPEK Genius 2024</i>!
+      </blockquote>
+    </details>
+    
+    <details style="margin-left: 20px; margin-top: 5px;">
+      <summary><b>Opsi A2: Mempertahankan intonasi kaku dan pembawaan super formal tanpa interaksi.</b></summary>
+      <blockquote style="background-color: #0d1117; border-left: 4px solid #dc3545; padding: 10px; margin-top: 10px;">
+        ❌ Suasana panggung selebrasi menjadi canggung dan membosankan. Beberapa audiens mulai bermain handphone karena bosan. 
+        <br><br>
+        👉 Putar balik dan pilih <b>Opsi A1</b> untuk mencairkan suasana dengan energi komunikatif Huda!
+      </blockquote>
+    </details>
+  </details>
+  
+  <details style="margin-left: 20px; margin-top: 5px;">
+    <summary><i>Pilihan B: Berbicara terlalu cepat karena gugup, membuat beberapa nama wisudawan salah sebut.</i></summary>
+    <blockquote style="background-color: #0d1117; border-left: 4px solid #dc3545; padding: 10px; margin-top: 10px;">
+      <b>Aduh!</b> Konsentrasi pecah dan sempat terjadi keheningan canggung di panggung. Panitia memberi kode dari balik panggung untuk tenang dan mengatur napas.
+      <br><br>
+      👉 Tenang, tarik napas dalam-dalam, lalu pilih <b>Pilihan A</b> untuk memimpin panggung dengan penuh percaya diri!
+    </blockquote>
+  </details>
+</details>
+
+<details>
+  <summary><b>📸 Jalur Creative & Digital Content Creator</b></summary>
+  <blockquote style="background-color: #0d1117; border-left: 4px solid #a855f7; padding: 10px; margin-top: 10px;">
+    Sebuah brand multinasional (seperti <b>Pocari Sweat</b> atau <b>Rexona</b>) menawarkan kolaborasi iklan kreatif berbayar di akun Instagram-mu. Mereka memintamu merancang konsep konten visual lifestyle. Konsep mana yang kamu ajukan?
+  </blockquote>
+  
+  <details style="margin-left: 20px; margin-top: 5px;">
+    <summary><i>Pilihan A: Merancang reels video transisi estetik, memperlihatkan kesegaran produk saat kamu beraktivitas aktif/kuliah, dengan visual posing profesional.</i></summary>
+    <blockquote style="background-color: #0d1117; border-left: 4px solid #28a745; padding: 10px; margin-top: 10px;">
+      <b>Brilian!</b> Draf konten disetujui langsung oleh Brand Manager tanpa revisi. Konten yang kamu unggah mendapat engagement tinggi dari audiens.
+      <br><br>
+      Berkat performa impresifmu, kamu ditunjuk oleh kampus UNU Yogyakarta untuk mewakili mahasiswa sebagai <b>Among Tamu VIP</b> dalam menyambut tokoh nasional (seperti Pak Luhut & Pak Pratik). Bagaimana kamu mempersiapkan penampilan visualmu?
+    </blockquote>
+    
+    <details style="margin-left: 20px; margin-top: 5px;">
+      <summary><b>Opsi A1: Mengenakan pakaian adat/batik formal rapi, menjaga postur tegak yang sopan, ramah, dan memancarkan aura hospitality profesional.</b></summary>
+      <blockquote style="background-color: #0d1117; border-left: 4px solid #28a745; padding: 10px; margin-top: 10px;">
+        👑 <b>Sempurna!</b> Sesi penyambutan berjalan sukses, tamu penting merasa disambut hangat, dan kamu mendapat apresiasi langsung dari Humas Universitas. Kamu membuka <b>Mahkota Kreatif Terbaik 👑</b>!
+        <br><br>
+        👉 Ini adalah representasi nyata kolaborasi Huda bersama brand **Rexona, Pocari Sweat, Skin1004** serta tugas Among Tamu VIP di UNU Jogja!
+      </blockquote>
+    </details>
+    
+    <details style="margin-left: 20px; margin-top: 5px;">
+      <summary><b>Opsi A2: Datang terlambat dan mengenakan pakaian kasual santai.</b></summary>
+      <blockquote style="background-color: #0d1117; border-left: 4px solid #dc3545; padding: 10px; margin-top: 10px;">
+        ❌ Ini melanggar protokol universitas dan merusak citra profesional Among Tamu. 
+        <br><br>
+        👉 Putar balik dan persiapkan dirimu dengan matang pada <b>Opsi A1</b> untuk memberikan impresi terbaik!
+      </blockquote>
+    </details>
+  </details>
+  
+  <details style="margin-left: 20px; margin-top: 5px;">
+    <summary><i>Pilihan B: Mengunggah draf foto produk seadanya yang blur dengan caption satu kata tanpa cerita.</i></summary>
+    <blockquote style="background-color: #0d1117; border-left: 4px solid #dc3545; padding: 10px; margin-top: 10px;">
+      <b>Ditolak!</b> Tim marketing brand menolak draf tersebut karena tidak kreatif dan tidak sesuai dengan brief branding visual. 
+      <br><br>
+      👉 Ingat keahlian multimediamu di SMK! Putar balik dan pilih <b>Pilihan A</b> untuk membuat karya yang estetik.
+    </blockquote>
+  </details>
+</details>
 
 ---
 
