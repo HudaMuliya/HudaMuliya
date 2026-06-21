@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05030a" />
+      <stop offset="50%" stop-color="#140f2d" />
+      <stop offset="100%" stop-color="#0a0714" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(59, 130, 246, 0.4)" />
+      <stop offset="50%" stop-color="rgba(236, 72, 153, 0.8)" />
+      <stop offset="100%" stop-color="rgba(167, 139, 250, 0.4)" />
+    </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#bgGrad)" />
+
+  <!-- Bottom Wave Line -->
+  <path d="M-50,20 Q300,100 600,20 T1250,80" fill="none" stroke="url(#glowGrad)" stroke-width="1.5" opacity="0.3" filter="url(#neonGlow)" />
+  <path d="M-50,40 Q250,10 550,80 T1250,30" fill="none" stroke="url(#glowGrad)" stroke-width="1" opacity="0.1" />
+
+  <!-- Footer Info -->
+  <g transform="translate(600, 55)" text-anchor="middle">
+    <text y="0" font-family="'Inter', -apple-system, system-ui, BlinkMacSystemFont, sans-serif" font-weight="600" font-size="14" fill="#a78bfa" letter-spacing="1">Godean, DIY, Indonesia</text>
+    <text y="24" font-family="'Inter', -apple-system, system-ui, BlinkMacSystemFont, sans-serif" font-style="italic" font-weight="400" font-size="12" fill="#94a3b8" letter-spacing="0.5">"Combining logic with communication — building interfaces and connections."</text>
+  </g>
+</svg>
