@@ -1,63 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,16,6&height=280&section=header&text=Huda%20Muliya&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Creative%20Technologist%20%7C%20Frontend%20Developer%20%7C%20Public%20Speaker&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%" />
+<img src="./header.svg" width="100%" alt="Huda Muliya - Frontend Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Building+beautiful+web+experiences+%F0%9F%9A%80;React+%26+Next.js+%7C+Tailwind+%7C+Figma+%7C+FastAPI;MC+%26+Host+%7C+Public+Speaker+%7C+Team+Leader" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=9ece6a&center=true&vCenter=true&multiline=false&width=800&lines=~%2Fbuild%20scalable_interfaces.sh;~%2Fnpm%20run%20dev;~%2Fgit%20commit%20-m%20%22UI%2FUX%20Magic%22" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://portofolio-huda-muliya.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=7dcfff&border=7dcfff" />
 </a>
-<a href="https://www.linkedin.com/in/huda-muliya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
+<a href="https://www.linkedin.com/in/hudamuliya" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bb9af7&border=bb9af7" />
 </a>
-<a href="https://www.instagram.com/huda0xa___" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=ec4899" />
+<a href="https://github.com/HudaMuliya" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&border=c0caf5" />
 </a>
 <a href="mailto:hudamuliya@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&border=f7768e" />
 </a>
 <a href="https://wa.me/62895423216883" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/WhatsApp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=9ece6a&border=9ece6a" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HudaMuliya&label=Profile+Views&color=6d28d9&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/HudaMuliya?label=Followers&style=flat-square&color=6d28d9&labelColor=1e1b4b" />
+<img src="https://komarev.com/ghpvc/?username=HudaMuliya&label=views&color=bb9af7&style=for-the-badge&labelColor=1a1b26" />
 
 </div>
 
 ---
 
-## About Me
+### ⚡ neofetch --about
 
-Hi, I’m **Huda Muliya** — a frontend developer, creative technologist, and public speaker from Indonesia.
-
-I enjoy building clean interfaces, turning ideas into visuals, and creating digital experiences that feel modern, fast, and useful.
-
-- 🎓 Informatics student at **UNU Yogyakarta**
-- 💻 Focused on **React, Next.js, Tailwind, Figma**
-- 🎤 Master of ceremony and public speaker
-- 🏆 Ketua Himpunan Mahasiswa Informatika
+```javascript
+const huda_muliya = {
+  title: "Frontend Developer & UI Engineer",
+  location: "Yogyakarta, Indonesia",
+  education: {
+    university: "Universitas Nahdlatul Ulama Yogyakarta",
+    major: "Informatics",
+    gpa: 3.95
+  },
+  experience: {
+    current: "Frontend Developer Intern @ PT NusaGo Digital Travelindo",
+    past: ["Freelance Frontend Developer", "UI/UX Designer"]
+  },
+  leadership: [
+    "Head of Informatics Student Association (HMP Informatika)",
+    "Public Relations Coordinator"
+  ],
+  passions: ["Building clean interfaces", "Agile collaboration", "Public Speaking (MC)"]
+};
+```
 
 ---
 
-## Tech Stack
+### 💻 cat ~/skills.txt
 
 <div align="center">
+  
+<img src="https://skillicons.dev/icons?i=js,html,css,php,react,nextjs,tailwind,bootstrap,flutter,mysql,git,github,vscode,figma,vite&theme=dark&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,python,php,fastapi,figma,git,github,vscode,vercel&theme=dark&perline=6" />
+<br/><br/>
+
+![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-1a1b26?style=flat-square&logoColor=7dcfff)
+![Component-Based](https://img.shields.io/badge/Component_Based_Architecture-1a1b26?style=flat-square&logoColor=bb9af7)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-1a1b26?style=flat-square&logoColor=9ece6a)
+![REST API](https://img.shields.io/badge/REST_API_Integration-1a1b26?style=flat-square&logoColor=f7768e)
+![UI Design](https://img.shields.io/badge/UI_Design-1a1b26?style=flat-square&logoColor=e0af68)
+![Agile Development](https://img.shields.io/badge/Agile_Development-1a1b26?style=flat-square&logoColor=7dcfff)
 
 </div>
 
 ---
 
-## Featured Projects
+### 📁 ls -la ~/projects
 
 <div align="center">
 
@@ -65,74 +84,119 @@ I enjoy building clean interfaces, turning ideas into visuals, and creating digi
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ NusaGo – Travel Platform
-Internship · Frontend Developer
+**[ ✈️ NusaGo – Travel Platform ]**
+> Internship · Frontend Developer
+<br/>
 
-[![Live](https://img.shields.io/badge/Live_Project-6d28d9?style=flat-square)](https://nusago.id/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Vite](https://img.shields.io/badge/Vite-1e1b4b?style=flat-square&logo=vite&logoColor=a78bfa)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Bekasin – Marketplace
-Frontend Developer
-
-[![Live](https://img.shields.io/badge/Live_Project-6d28d9?style=flat-square)](https://bekasin-marketplace.vercel.app/)
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
-![Vite](https://img.shields.io/badge/Vite-1e1b4b?style=flat-square&logo=vite&logoColor=a78bfa)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ HairCheck – DSS System
-UI/UX & Frontend
-
-[![Figma](https://img.shields.io/badge/Figma-1e1b4b?style=flat-square&logo=figma&logoColor=ec4899)](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdD/HAIRCHECK?node-id=0-1)
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![FastAPI](https://img.shields.io/badge/FastAPI-052e16?style=flat-square&logo=fastapi&logoColor=22c55e)
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff)
+![Vite](https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=bb9af7)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1b26?style=flat-square&logo=tailwind-css&logoColor=7dcfff)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍎 AppleScan – ML Classifier
-Frontend Developer
+**[ 📚 NusaGo Partner Docs ]**
+> Documentation Platform
+<br/>
 
-[![Live](https://img.shields.io/badge/Live_Project-6d28d9?style=flat-square)](https://apple-scan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
 
-![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=facc15)
-![KNN](https://img.shields.io/badge/KNN_Algorithm-0f172a?style=flat-square&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff)
+![Vite](https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=bb9af7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=e0af68)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 School Website Redesign
-Freelance Frontend Developer
+**[ 📱 NusaGo Mobile App ]**
+> Mobile Frontend Developer
+<br/>
 
-[![Live](https://img.shields.io/badge/Live_Project-6d28d9?style=flat-square)](https://roudlotushsholihin.ponpes.id/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+![Flutter](https://img.shields.io/badge/Flutter-1a1b26?style=flat-square&logo=flutter&logoColor=7dcfff)
+![Dart](https://img.shields.io/badge/Dart-1a1b26?style=flat-square&logo=dart&logoColor=7dcfff)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 HairCheck Design System
-UI/UX Designer · Figma
+**[ 🍎 AppleScan – ML Classifier ]**
+> Frontend Developer
+<br/>
 
-[![Figma](https://img.shields.io/badge/Figma-1e1b4b?style=flat-square&logo=figma&logoColor=ec4899)](https://www.figma.com/design/WfZhETDEkIDRuc1oq4RSdD/HAIRCHECK?node-id=0-1)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
 
-![Figma](https://img.shields.io/badge/Figma-1e1b4b?style=flat-square&logo=figma&logoColor=ec4899)
-![UCD](https://img.shields.io/badge/User_Centered_Design-0f172a?style=flat-square&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b26?style=flat-square&logo=css3&logoColor=7dcfff)
+![REST API](https://img.shields.io/badge/REST_API-1a1b26?style=flat-square&logoColor=bb9af7)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ ⚡ HairCheck – DSS System ]**
+> UI/UX & Frontend Developer
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
+
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff)
+![Figma](https://img.shields.io/badge/Figma-1a1b26?style=flat-square&logo=figma&logoColor=f7768e)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=e0af68)
+
+</td>
+<td width="50%" valign="top">
+
+**[ 🏫 MTs Roudlotush Sholihin ]**
+> Freelance Frontend Developer
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
+
+![HTML5](https://img.shields.io/badge/HTML5-1a1b26?style=flat-square&logo=html5&logoColor=f7768e)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b26?style=flat-square&logo=css3&logoColor=7dcfff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=e0af68)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ 🛒 Kasir Unupreneurs ]**
+> Full-Stack POS System
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
+
+![PHP](https://img.shields.io/badge/PHP-1a1b26?style=flat-square&logo=php&logoColor=bb9af7)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=7dcfff)
+![HTML5](https://img.shields.io/badge/HTML5-1a1b26?style=flat-square&logo=html5&logoColor=f7768e)
+
+</td>
+<td width="50%" valign="top">
+
+**[ 🏛️ KoMpak ]**
+> Campus Org Management System
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square)](#)
+
+![PHP](https://img.shields.io/badge/PHP-1a1b26?style=flat-square&logo=php&logoColor=bb9af7)
+![MVC](https://img.shields.io/badge/MVC-1a1b26?style=flat-square&logoColor=9ece6a)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=7dcfff)
 
 </td>
 </tr>
@@ -142,52 +206,21 @@ UI/UX Designer · Figma
 
 ---
 
-## GitHub Analytics
+### 📊 htop --user github_stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0a1a&title_color=a78bfa&icon_color=ec4899&text_color=e2e8f0&ring_color=7c3aed" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b26&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5&ring_color=9ece6a" height="180" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=midnight-purple&hide_border=true&background=0d0a1a&ring=7c3aed&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=64748b" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HudaMuliya&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff&sideLabels=7dcfff&sideNums=c0caf5&currStreakNum=c0caf5&dates=1a1b26" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HudaMuliya&theme=tokyo-night&hide_border=true&bg_color=0d0a1a&color=a78bfa&line=7c3aed&point=ec4899&area=true&area_color=6d28d9" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HudaMuliya&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7dcfff&line=bb9af7&point=9ece6a&area=true&area_color=1f2335" width="98%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HudaMuliya&theme=radical&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" width="100%" />
-
-</div>
-
----
-
-## Beyond the Code
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎤_MC_%26_Host-1e1b4b?style=for-the-badge" />
-<br/><br/>
-<sub>1000+ Audience</sub><br/>
-<sub>15+ Events</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📸_Model_%26_Creator-1e1b4b?style=for-the-badge" />
-<br/><br/>
-<sub>Brand Collaboration</sub><br/>
-<sub>Rexona · Pocari Sweat · Skin1004 · Isntree</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🦁_Ketua_HIMATIKA-1e1b4b?style=for-the-badge" />
-<br/><br/>
-<sub>2025 – Sekarang</sub><br/>
-<sub>UNU Yogyakarta · Informatika</sub>
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=HudaMuliya&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" width="100%" />
 
 </div>
 
@@ -195,6 +228,6 @@ UI/UX Designer · Figma
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,16,6&height=150&section=footer&text=Godean%2C%20DIY%2C%20Indonesia&fontSize=18&fontColor=c4b5fd&fontAlignY=55&desc=%22Combining+logic+with+communication+%E2%80%94+building+interfaces+and+connections.%22&descSize=12&descColor=94a3b8&descAlignY=75" width="100%" />
+<img src="./footer.svg" width="100%" alt="Creating intuitive digital experiences" />
 
 </div>
