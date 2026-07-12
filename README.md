@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://portofolio-huda-muliya.vercel.app">
-  <img src="assets/hero-banner.jpg" alt="Huda Muliya - Frontend Developer" width="100%" style="border-radius: 10px;" />
+  <img src="assets/banner.png" alt="Huda Muliya - Frontend Developer" width="100%" style="border-radius: 10px;" />
 </a>
 
 </div>
