@@ -25,81 +25,15 @@
 
 ### Featured Projects
 
-<table width="100%" border="1" style="border-collapse: collapse; border-color: #30363d;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🏨 TheKost</h3>
-      <i>Frontend Developer (2026)</i><br/><br/>
-      Developed responsive frontend interfaces for a property rental platform. Built property exploration, authentication, booking, checkout, payment, and user dashboard features.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="24" alt="tech-stack" />
-      <br/><sub>React, TypeScript, Vite, Tailwind CSS, Zustand</sub>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🏢 PT NusaGo Company Profile</h3>
-      <i>Frontend Developer (2026)</i><br/><br/>
-      Developed the official company website with responsive layouts. Translated business requirements and Figma designs into reusable frontend components for a consistent user experience.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="24" alt="tech-stack" />
-      <br/><sub>React, Vite, Tailwind CSS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>📚 NusaGo Partner Docs</h3>
-      <i>Frontend Developer (2026)</i><br/><br/>
-      Built the complete frontend for an internal documentation platform. Developed reusable page layouts and UI components for documentation and FAQ pages, improving content accessibility.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,vite,js" height="24" alt="tech-stack" />
-      <br/><sub>React, Vite, JavaScript</sub>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>📱 NusaGo Mobile App</h3>
-      <i>Frontend Developer (2026)</i><br/><br/>
-      Implemented responsive UI screens for the NusaGo mobile application. Built reusable widgets to improve consistency across application pages. Collaborated in an agile team.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,git" height="24" alt="tech-stack" />
-      <br/><sub>Flutter, Dart, Git</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🍎 AppleScan ML Interface</h3>
-      <i>Frontend Developer (2026)</i><br/><br/>
-      Developed responsive user interfaces for a machine learning–based fruit classification system. Integrated REST APIs to display prediction results dynamically with smooth animations.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,css" height="24" alt="tech-stack" />
-      <br/><sub>React, CSS Animations, REST API</sub>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>💇 HairCheck System</h3>
-      <i>UI/UX Designer & Frontend Dev (2026)</i><br/><br/>
-      Designed the user experience from wireframes to high-fidelity interfaces in Figma. Developed responsive frontend pages focusing on accessibility and intuitive navigation.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=figma,react,js,css" height="24" alt="tech-stack" />
-      <br/><sub>Figma, React, JavaScript, CSS3</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🏫 MTs Roudlotush Sholihin</h3>
-      <i>Freelance Frontend Developer (2025)</i><br/><br/>
-      Designed and developed a responsive school landing page. Built modular frontend components to improve the school's online presence with a modern, mobile-friendly interface.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js" height="24" alt="tech-stack" />
-      <br/><sub>HTML5, CSS3, JavaScript, Responsive Design</sub>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🛒 Kasir Unupreneurs</h3>
-      <i>Full-Stack Developer (2024)</i><br/><br/>
-      Developed a web-based POS system with inventory, transaction, and reporting features. Implemented role-based authentication and MVC architecture for structural maintainability.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,mysql,js,css,html" height="24" alt="tech-stack" />
-      <br/><sub>PHP, MySQL, HTML5, CSS3, JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" style="padding: 15px;">
-      <h3>👥 KoMpak System</h3>
-      <i>Full-Stack Developer (2024)</i><br/><br/>
-      Developed a campus organization management system. Built room booking, member management, and activity reporting modules with a responsive administrative dashboard.<br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,mysql,html,css" height="24" alt="tech-stack" />
-      <br/><sub>PHP, MVC, MySQL, HTML5, CSS3</sub>
-    </td>
-  </tr>
-</table>
+- 🏨 **TheKost** — Property rental platform frontend.
+- 🏢 **PT NusaGo Company Profile** — Official responsive company website.
+- 📚 **NusaGo Partner Docs** — Internal documentation platform frontend.
+- 📱 **NusaGo Mobile App** — Mobile application UI screens.
+- 🍎 **AppleScan ML Interface** — UI for machine learning-based fruit classification.
+- 💇 **HairCheck System** — UI/UX design and frontend development.
+- 🏫 **MTs Roudlotush Sholihin** — Responsive school landing page.
+- 🛒 **Kasir Unupreneurs** — Web-based POS system with inventory features.
+- 👥 **KoMpak System** — Campus organization management system.
 
 ---
 
