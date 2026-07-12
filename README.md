@@ -10,11 +10,16 @@
 
 ### About Me
 
-Frontend Engineer based in Indonesia, specializing in creating intuitive digital experiences with a strong focus on UI design and seamless interactivity. I transform complex user requirements into elegant, automated solutions that scale and impact. My expertise lies in bridging the gap between aesthetic design and robust engineering, ensuring every pixel serves a purpose.
+- 📍 **Based In:** Indonesia
+- 💻 **Role:** Frontend Developer & UI Engineer
+- 🎨 **Focus:** Bridging aesthetic UI design with robust, scalable engineering
+- 🚀 **Mission:** Transforming complex requirements into intuitive digital experiences
 
 ### What Drives Me
 
-I'm passionate about solving real-world problems through code. Whether it's automating tedious processes, crafting beautiful user interfaces, or architecting scalable frontend applications, I believe technology should make life easier and more efficient. I thrive in environments where creativity meets logic.
+- 💡 **Problem Solving:** Passionate about solving real-world problems through code
+- ⚙️ **Efficiency:** Automating workflows and crafting beautiful user interfaces
+- 🤝 **Balance:** Thriving in environments where creativity meets pure logic
 
 ---
 
@@ -23,28 +28,75 @@ I'm passionate about solving real-world problems through code. Whether it's auto
 <table width="100%" border="1" style="border-collapse: collapse; border-color: #30363d;">
   <tr>
     <td width="50%" valign="top" style="padding: 15px;">
-      <b>NusaGo Travel Platform</b><br/>
-      <i>Seamless Travel Booking System</i><br/><br/>
-      Built a comprehensive travel platform focusing on intuitive user experience and robust state management. The application handles complex search filtering and booking workflows.<br/><br/>
-      <b>Impact:</b>
-      <ul>
-        <li>Improved user engagement and booking completion rate.</li>
-        <li>Automated dynamic pricing displays.</li>
-        <li>Reduced manual data entry errors.</li>
-      </ul>
-      <i>Tech Stack: React, Next.js, Tailwind CSS, TypeScript</i>
+      <h3>🏨 TheKost</h3>
+      <i>Frontend Developer (2026)</i><br/><br/>
+      Developed responsive frontend interfaces for a property rental platform. Built property exploration, authentication, booking, checkout, payment, and user dashboard features.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="24" alt="tech-stack" />
+      <br/><sub>React, TypeScript, Vite, Tailwind CSS, Zustand</sub>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
-      <b>AppleScan ML Interface</b><br/>
-      <i>AI-Powered Quality Assessment</i><br/><br/>
-      Designed and engineered the frontend interface for an AI model that determines fruit quality based on uploaded imagery, providing real-time feedback to users.<br/><br/>
-      <b>Impact:</b>
-      <ul>
-        <li>Streamlined workflow for agricultural analysis.</li>
-        <li>Eliminated paper-based quality tracking entirely.</li>
-        <li>Improved efficiency for staff and researchers.</li>
-      </ul>
-      <i>Tech Stack: React, Vite, Tailwind CSS, Python (Backend API)</i>
+      <h3>🏢 PT NusaGo Company Profile</h3>
+      <i>Frontend Developer (2026)</i><br/><br/>
+      Developed the official company website with responsive layouts. Translated business requirements and Figma designs into reusable frontend components for a consistent user experience.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="24" alt="tech-stack" />
+      <br/><sub>React, Vite, Tailwind CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>📚 NusaGo Partner Docs</h3>
+      <i>Frontend Developer (2026)</i><br/><br/>
+      Built the complete frontend for an internal documentation platform. Developed reusable page layouts and UI components for documentation and FAQ pages, improving content accessibility.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,vite,js" height="24" alt="tech-stack" />
+      <br/><sub>React, Vite, JavaScript</sub>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>📱 NusaGo Mobile App</h3>
+      <i>Frontend Developer (2026)</i><br/><br/>
+      Implemented responsive UI screens for the NusaGo mobile application. Built reusable widgets to improve consistency across application pages. Collaborated in an agile team.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,git" height="24" alt="tech-stack" />
+      <br/><sub>Flutter, Dart, Git</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>🍎 AppleScan ML Interface</h3>
+      <i>Frontend Developer (2026)</i><br/><br/>
+      Developed responsive user interfaces for a machine learning–based fruit classification system. Integrated REST APIs to display prediction results dynamically with smooth animations.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,css" height="24" alt="tech-stack" />
+      <br/><sub>React, CSS Animations, REST API</sub>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>💇 HairCheck System</h3>
+      <i>UI/UX Designer & Frontend Dev (2026)</i><br/><br/>
+      Designed the user experience from wireframes to high-fidelity interfaces in Figma. Developed responsive frontend pages focusing on accessibility and intuitive navigation.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=figma,react,js,css" height="24" alt="tech-stack" />
+      <br/><sub>Figma, React, JavaScript, CSS3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>🏫 MTs Roudlotush Sholihin</h3>
+      <i>Freelance Frontend Developer (2025)</i><br/><br/>
+      Designed and developed a responsive school landing page. Built modular frontend components to improve the school's online presence with a modern, mobile-friendly interface.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js" height="24" alt="tech-stack" />
+      <br/><sub>HTML5, CSS3, JavaScript, Responsive Design</sub>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>🛒 Kasir Unupreneurs</h3>
+      <i>Full-Stack Developer (2024)</i><br/><br/>
+      Developed a web-based POS system with inventory, transaction, and reporting features. Implemented role-based authentication and MVC architecture for structural maintainability.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=php,mysql,js,css,html" height="24" alt="tech-stack" />
+      <br/><sub>PHP, MySQL, HTML5, CSS3, JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="padding: 15px;">
+      <h3>👥 KoMpak System</h3>
+      <i>Full-Stack Developer (2024)</i><br/><br/>
+      Developed a campus organization management system. Built room booking, member management, and activity reporting modules with a responsive administrative dashboard.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=php,mysql,html,css" height="24" alt="tech-stack" />
+      <br/><sub>PHP, MVC, MySQL, HTML5, CSS3</sub>
     </td>
   </tr>
 </table>
