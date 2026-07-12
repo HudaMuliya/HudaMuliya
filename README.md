@@ -131,5 +131,5 @@ const currentFocus = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=000000,0f172a,1e293b&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=100&section=footer" />
 </div>
