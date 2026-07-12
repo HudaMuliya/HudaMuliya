@@ -25,15 +25,15 @@
 
 ### Featured Projects
 
-- 🏨 **TheKost** — Property rental platform frontend.
-- 🏢 **PT NusaGo Company Profile** — Official responsive company website.
-- 📚 **NusaGo Partner Docs** — Internal documentation platform frontend.
-- 📱 **NusaGo Mobile App** — Mobile application UI screens.
-- 🍎 **AppleScan ML Interface** — UI for machine learning-based fruit classification.
-- 💇 **HairCheck System** — UI/UX design and frontend development.
-- 🏫 **MTs Roudlotush Sholihin** — Responsive school landing page.
-- 🛒 **Kasir Unupreneurs** — Web-based POS system with inventory features.
-- 👥 **KoMpak System** — Campus organization management system.
+- 🏨 **TheKost** — Property rental platform frontend. *(React, TypeScript, Vite, Tailwind CSS, Zustand)*
+- 🏢 **PT NusaGo Company Profile** — Official responsive company website. *(React, Vite, Tailwind CSS)*
+- 📚 **NusaGo Partner Docs** — Internal documentation platform frontend. *(React, Vite, JavaScript)*
+- 📱 **NusaGo Mobile App** — Mobile application UI screens. *(Flutter, Dart, Git)*
+- 🍎 **AppleScan ML Interface** — UI for machine learning-based fruit classification. *(React, CSS Animations, REST API)*
+- 💇 **HairCheck System** — UI/UX design and frontend development. *(Figma, React, JavaScript, CSS3)*
+- 🏫 **MTs Roudlotush Sholihin** — Responsive school landing page. *(HTML5, CSS3, JavaScript)*
+- 🛒 **Kasir Unupreneurs** — Web-based POS system with inventory features. *(PHP, MySQL, HTML5, CSS3, JavaScript)*
+- 👥 **KoMpak System** — Campus organization management system. *(PHP, MVC, MySQL, HTML5, CSS3)*
 
 ---
 
