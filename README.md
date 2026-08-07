@@ -4,18 +4,18 @@
   <br /><br />
   
   <a href="https://hudamuliya.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-hudamuliya.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-hudamuliya.my.id-000000?style=for-the-badge&logo=vercel&logoColor=FF6B00" alt="Portfolio" />
   </a>
   <a href="mailto:hudamuliya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hudamuliya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hudamuliya@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/hudamuliya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" />
   </a>
 
   <br /><br />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Engineer;Passionate+about+Design+%26+Code;Building+Interactive+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Engineer;Passionate+about+Design+%26+Code;Building+Interactive+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <br />
@@ -83,14 +83,6 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudaMuliya&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
-  
-  <br/><br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HudaMuliya/HudaMuliya/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&hide_border=true&title_color=FF6B00&text_color=c9d1d9&icon_color=FF6B00&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudaMuliya&layout=compact&hide_border=true&title_color=FF6B00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
 </div>
