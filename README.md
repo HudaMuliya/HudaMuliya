@@ -1,25 +1,26 @@
 <div align="center">
   <img src="assets/banner.png" alt="Huda Muliya - Frontend Developer" width="100%" style="border-radius: 10px;" />
   
-  <br />
-  <br />
+  <br /><br />
+  
+  <a href="https://hudamuliya.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-hudamuliya.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hudamuliya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hudamuliya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hudamuliya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-  <h1>Hi, I'm Huda Muliya</h1>
-  <p><b>UI Engineer & Frontend Developer</b> | Building intuitive digital experiences</p>
-</div>
-
-<p align="center">
-  Passionate about bridging aesthetic UI design with robust, scalable engineering. Currently focused on building high-performance web applications using React, Tailwind CSS, and modern web technologies.
-</p>
-
-<div align="center">
-  <a href="mailto:hudamuliya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="hudamuliya.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <br /><br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Engineer;Passionate+about+Design+%26+Code;Building+Interactive+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <br />
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,next,tailwind,vite,flutter,dart,python,php,mysql,figma,git,vscode&theme=dark&perline=14" alt="Tech Stack" />
@@ -27,17 +28,55 @@
 
 <br />
 
-### 🚀 Featured Projects
+### 💡 Featured Projects
 
-- **TheKost** — Property rental platform frontend. *(React, TypeScript, Vite, Tailwind CSS, Zustand)*
-- **PT NusaGo Company Profile** — Official responsive company website. *(React, Vite, Tailwind CSS)*
-- **NusaGo Partner Docs** — Internal documentation platform frontend. *(React, Vite, JavaScript)*
-- **NusaGo Mobile App** — Mobile application UI screens. *(Flutter, Dart, Git)*
-- **AppleScan ML Interface** — UI for machine learning-based fruit classification. *(React, CSS Animations, REST API)*
-- **HairCheck System** — UI/UX design and frontend development. *(Figma, React, JavaScript, CSS3)*
-- **MTs Roudlotush Sholihin** — Responsive school landing page. *(HTML5, CSS3, JavaScript)*
-- **Kasir Unupreneurs** — Web-based POS system with inventory features. *(PHP, MySQL, HTML5, CSS3, JavaScript)*
-- **KoMpak System** — Campus organization management system. *(PHP, MVC, MySQL, HTML5, CSS3)*
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏨 TheKost</h4>
+      <p>Property rental platform frontend.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 PT NusaGo Company Profile</h4>
+      <p>Official responsive company website.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 NusaGo Partner Docs</h4>
+      <p>Internal documentation platform frontend.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 NusaGo Mobile App</h4>
+      <p>Mobile application UI screens.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍎 AppleScan ML Interface</h4>
+      <p>UI for ML-based fruit classification.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💇 HairCheck System</h4>
+      <p>UI/UX design & frontend development.</p>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
