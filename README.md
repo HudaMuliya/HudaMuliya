@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Huda Muliya - Frontend Developer" width="100%" style="border-radius: 10px;" />
+  <img src="assets/github.png" alt="Huda Muliya - Frontend Developer" width="100%" style="border-radius: 10px;" />
   
   <br /><br />
   
