@@ -4,9 +4,8 @@
   <br />
   <br />
 
-  <a href="https://portofolio-huda-muliya.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Huda+Muliya;UI+Engineer+%26+Frontend+Developer;Building+intuitive+digital+experiences" alt="Typing SVG" />
-  </a>
+  <h1>Hi, I'm Huda Muliya</h1>
+  <p><b>UI Engineer & Frontend Developer</b> | Building intuitive digital experiences</p>
 </div>
 
 <p align="center">
@@ -15,7 +14,7 @@
 
 <div align="center">
   <a href="mailto:hudamuliya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portofolio-huda-muliya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="hudamuliya.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br />
@@ -28,14 +27,17 @@
 
 <br />
 
-### 🚀 Featured Work
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[TheKost](#)** | Property rental platform frontend. | `React` `TS` `Vite` `Zustand` |
-| **[NusaGo Company Profile](#)** | Official responsive company website. | `React` `Vite` `Tailwind` |
-| **[AppleScan ML](#)** | UI for ML-based fruit classification. | `React` `CSS` `REST API` |
-| **[HairCheck System](#)** | UI/UX design and frontend development. | `Figma` `React` `JS` |
+- **TheKost** — Property rental platform frontend. *(React, TypeScript, Vite, Tailwind CSS, Zustand)*
+- **PT NusaGo Company Profile** — Official responsive company website. *(React, Vite, Tailwind CSS)*
+- **NusaGo Partner Docs** — Internal documentation platform frontend. *(React, Vite, JavaScript)*
+- **NusaGo Mobile App** — Mobile application UI screens. *(Flutter, Dart, Git)*
+- **AppleScan ML Interface** — UI for machine learning-based fruit classification. *(React, CSS Animations, REST API)*
+- **HairCheck System** — UI/UX design and frontend development. *(Figma, React, JavaScript, CSS3)*
+- **MTs Roudlotush Sholihin** — Responsive school landing page. *(HTML5, CSS3, JavaScript)*
+- **Kasir Unupreneurs** — Web-based POS system with inventory features. *(PHP, MySQL, HTML5, CSS3, JavaScript)*
+- **KoMpak System** — Campus organization management system. *(PHP, MVC, MySQL, HTML5, CSS3)*
 
 <br />
 
