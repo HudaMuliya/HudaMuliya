@@ -33,52 +33,54 @@
 
 <br />
 
-### 💡 Featured Projects
+<h3 align="center">💡 Featured Projects</h3>
 
-<table border="0" width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏨 TheKost</h4>
-      <p>Property rental platform frontend.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 PT NusaGo Company Profile</h4>
-      <p>Official responsive company website.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📚 NusaGo Partner Docs</h4>
-      <p>Internal documentation platform frontend.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 NusaGo Mobile App</h4>
-      <p>Mobile application UI screens.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍎 AppleScan ML Interface</h4>
-      <p>UI for ML-based fruit classification.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>💇 HairCheck System</h4>
-      <p>UI/UX design & frontend development.</p>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="1" bordercolor="#333333" cellpadding="15" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏨 TheKost</h3>
+        <p><i>Property rental platform frontend.</i></p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🏢 PT NusaGo</h3>
+        <p><i>Official responsive company website.</i></p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📚 NusaGo Partner Docs</h3>
+        <p><i>Internal documentation platform frontend.</i></p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td width="50%" align="center">
+        <h3>📱 NusaGo Mobile App</h3>
+        <p><i>Mobile application UI screens.</i></p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🍎 AppleScan ML Interface</h3>
+        <p><i>UI for ML-based fruit classification.</i></p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+      <td width="50%" align="center">
+        <h3>💇 HairCheck System</h3>
+        <p><i>UI/UX design & frontend development.</i></p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </td>
+    </tr>
+  </table>
+</div>
