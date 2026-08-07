@@ -77,12 +77,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HudaMuliya&show_icons=true&hide_border=true&title_color=FF6B00&text_color=c9d1d9&icon_color=FF6B00&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudaMuliya&layout=compact&hide_border=true&title_color=FF6B00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div>
