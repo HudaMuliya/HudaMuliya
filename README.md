@@ -24,22 +24,12 @@
 
 <div align="center">
   <br />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF6B00" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF6B00" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FF6B00" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FF6B00" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF6B00" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF6B00" alt="JavaScript" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF6B00" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF6B00" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF6B00" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF6B00" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF6B00" alt="MySQL" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF6B00" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B00" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6B00" alt="Git" />
+  <marquee behavior="scroll" direction="left" scrollamount="7" width="100%">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,js,ts,flutter&theme=dark" alt="Tech Stack" />
+  </marquee>
+  <marquee behavior="scroll" direction="right" scrollamount="7" width="100%">
+    <img src="https://skillicons.dev/icons?i=dart,python,php,mysql,figma,vscode,git&theme=dark" alt="Tech Stack" />
+  </marquee>
 </div>
 
 <br />
