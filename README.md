@@ -24,11 +24,10 @@
 
 <div align="center">
   <br />
-  <marquee behavior="scroll" direction="left" scrollamount="7" width="100%">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,js,ts,flutter&theme=dark" alt="Tech Stack" />
-  </marquee>
-  <marquee behavior="scroll" direction="right" scrollamount="7" width="100%">
-    <img src="https://skillicons.dev/icons?i=dart,python,php,mysql,figma,vscode,git&theme=dark" alt="Tech Stack" />
+  <marquee behavior="alternate" scrollamount="12" width="100%">
+    <marquee direction="up" behavior="alternate" scrollamount="6" height="150">
+      <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,js,ts,flutter,dart,python,php,mysql,figma,vscode,git&theme=dark&perline=7" alt="Tech Stack" />
+    </marquee>
   </marquee>
 </div>
 
